@@ -4,7 +4,7 @@
 
 I’m an **AI Engineer** focused on designing, building, and deploying practical AI systems. I enjoy turning emerging AI technologies into reliable, production-ready solutions.
 
-With hands-on AI/ML & Generative AI experience**, I work across LLM applications, RAG, multi-agent systems, NLP, computer vision, and AI deployment.
+With hands-on AI/ML & Generative AI experience, I work across LLM applications, RAG, multi-agent systems, NLP, computer vision, and AI deployment.
 
 ---
 
